@@ -1,0 +1,126 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+
+.menu {
+    width: 90%;
+    margin: auto;
+}
+.nav-link{
+    color: black;
+    font-size: 22px;
+}
+.header {
+    display: flex;
+    margin: auto;
+    width: 80%;
+}
+.text {
+    width: 70%;
+    margin-top: 150px;
+}
+text h1{
+    font-size: 30px;
+    font-family: sans-serif;    
+    font-weight: 400px;
+}
+.text button{
+    height: 50px;
+    width: 200px;
+    border-color: #FF6464;
+    background-color: #FF6464;
+    outline: navajowhite;
+    color: white;
+}
+.avt {
+    margin-top: 150px;
+    width: 50%;
+}
+.avt img {
+    width: 250px;
+    height: 250px;
+    margin: 0px 0px 0px 150px;
+    box-shadow: -4px 15px 0px #edf7fa;
+    border-radius: 100%;
+}
+    /* end nav  */
+.content{
+    background: #EDF7FA;
+     height: 416px;
+     margin-top: 100px;
+     position: relative;
+}
+.container{
+    padding-top: 70px;
+}
+.p-3{
+    height: 315px;
+    width: 418px;
+    border-radius: 5px;
+}
+.p-3 p{
+    position: absolute;
+    top: 20px;
+}
+.p-3 p a{
+    text-decoration: none;
+}
+.p-3 ul{
+    text-align: -webkit-left;
+}
+.p-3 ul li{
+    padding-top: 20px;
+}
+.p-3 ul li h1{
+    font-size: 30px;
+}
+.wapper{
+    margin-top: 50px;
+}
+.wapper-col-2{
+    margin: auto;
+    width: 70%;
+}
+.collapseImg{
+    display: flex;
+    padding-top: 20px;
+}
+.collapseImg img{
+    height: 190px;
+    width: 246px;
+}
+.collapseImg ul{
+    margin-top: 5px;
+}
+.collapseImg ul li{
+    padding-top: 20px;
+    width: 700px;
+}
+.collapseImg b{
+    background: black;
+    border-radius:45%;
+    border: 5px solid black;
+    color: white;   
+}
+.fotter{
+    margin-top: 100px;
+    justify-content: center;
+    margin-left: -35px;
+}
+.fotter-icon{
+    display: flex;
+}
+.fotter-icon li{
+    padding: 0px 20px;
+}
+.fotter-icon li a i{
+    color: black;
+    font-size: 40px;
+}
+.fotter p{
+    text-align: center;
+    padding-left: 0px 200px;
+}
